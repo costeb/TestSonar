@@ -8,6 +8,7 @@ public class Principale {
 	}
 
 	public static void main(String[] args) {
+		//La méthode afficher crée un Seconde et en affiche le contenu
 		afficher();
 	}
 
