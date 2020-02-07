@@ -24,5 +24,8 @@ public class Seconde {
 		this.entier = entier;
 	}
 	
+	public int getUn(String s){
+		return 1;
+	}
 
 }
